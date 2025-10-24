@@ -20,7 +20,7 @@
 ---
 
 ## ⚙️ Структура проекта
-
+```
 ├── Http/
 │ ├── Controllers/
 │ ├── Requests/
@@ -31,7 +31,7 @@
 ├── routes/
 │ └── api.php
 └── README.md
-
+```
 ---
 
 GET /api/guides

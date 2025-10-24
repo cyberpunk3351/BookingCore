@@ -33,6 +33,7 @@
 └── README.md
 ```
 ---
-
+```
 GET /api/guides
 GET /api/guides?min_experience=3
+```
